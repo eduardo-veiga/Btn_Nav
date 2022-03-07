@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Btn_Nav</string>
+    <string name="Entrar">entrar</string>
+    <string name="Sair">sair</string>
+</resources>
